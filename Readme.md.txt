@@ -1,6 +1,6 @@
 ## 100DaysOfCode Challenge
 
-![GitHub Logo](/images/cover.png)
+![GitHub Logo](/images/cover.PNG)
 Format: ![Alt Text](url)
 
 
